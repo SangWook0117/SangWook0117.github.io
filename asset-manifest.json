@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb113268.css",
-    "main.js": "/static/js/main.ec602725.js",
+    "main.css": "/static/css/main.7f815ea1.css",
+    "main.js": "/static/js/main.c99d8acc.js",
     "static/js/453.28993049.chunk.js": "/static/js/453.28993049.chunk.js",
-    "static/media/photo.jpg": "/static/media/photo.0e8de0cdf3b7f2baa4d7.jpg",
+    "static/media/Adidas_Shop_Project.png": "/static/media/Adidas_Shop_Project.888f72ef67f8f2bd6f6e.png",
+    "static/media/introduceImage.png": "/static/media/introduceImage.6e13ebde5b86aac33c53.png",
+    "static/media/NoonnuBasicGothicRegular.ttf": "/static/media/NoonnuBasicGothicRegular.a19ebd32d469f7b5c393.ttf",
+    "static/media/Pinterest_Clone_Coding.png": "/static/media/Pinterest_Clone_Coding.c48547c3f702fccf076d.png",
+    "static/media/Dr_Rate_thumbnail.png": "/static/media/Dr_Rate_thumbnail.b1a44eea0682348d2d65.png",
     "index.html": "/index.html",
-    "main.eb113268.css.map": "/static/css/main.eb113268.css.map",
-    "main.ec602725.js.map": "/static/js/main.ec602725.js.map",
+    "main.7f815ea1.css.map": "/static/css/main.7f815ea1.css.map",
+    "main.c99d8acc.js.map": "/static/js/main.c99d8acc.js.map",
     "453.28993049.chunk.js.map": "/static/js/453.28993049.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb113268.css",
-    "static/js/main.ec602725.js"
+    "static/css/main.7f815ea1.css",
+    "static/js/main.c99d8acc.js"
   ]
 }
